@@ -13,8 +13,8 @@ while pergunta in "S":
         print("Esse número já está na lista...\nDIGITE OUTRO.")
     while True:
         pergunta = input('Quer continuar?\n[S] para SIM.\n[N] para NÃO.\n->').strip().upper()
-        if not pergunta:
-            print("Você não digitou nada.Digite uma resposta válida.")
+        if not pergunta or pergunta not in "SN":
+            print("ERRO!Digite uma resposta válida.")
         elif pergunta in "SN":
             break
 lista1.sort()
