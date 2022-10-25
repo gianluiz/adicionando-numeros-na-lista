@@ -1,4 +1,4 @@
-#Wdicionando numeros inteiros em uma lista
+#Adicionando numeros inteiros em uma lista
 
 O objetivo deste código é demonstrar a utilização de uma lista e de como adicionar dados na mesma.
 
