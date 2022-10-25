@@ -1,6 +1,6 @@
 #Adicionando numeros inteiros em uma lista
 
-O objetivo deste código é demonstrar a utilização de uma lista e de como adicionar dados na mesma.
+O objetivo deste código é demonstrar a utilização de uma lista e de como adicionar dados na mesma com o .append()
 
 -> O programa cria uma lista que receberá valores digitados pelo usuário.
 
